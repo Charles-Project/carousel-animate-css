@@ -1,0 +1,29 @@
+body {
+    font-family: 'Coiny', cursive;
+}
+
+a {
+    color: #4d4b4b !important;
+}
+
+header .carousel-inner .carousel-item {
+    height: 100vh;
+}
+
+.carousel-caption {
+    padding-bottom: 250px;
+    text-transform: uppercase;
+}
+
+.carousel-control-prev.right {
+    background-image: none;
+}
+
+.carousel-control-next.left {
+    background-image: none;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+}
